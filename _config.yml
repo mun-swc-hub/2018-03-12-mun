@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Software Carpentry: Memorial University"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: danielle.quinn@mun.ca
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
