@@ -166,22 +166,7 @@ eventbrite:
 -->
 <p id="contact">
   <strong>Contact</strong>:
-  Please email
-  {% if page.contact %}
-    {% for contact in page.contact %}
-      {% if forloop.last and page.contact.size > 1 %}
-        or
-      {% else %}
-        {% unless forloop.first %}
-        ,
-        {% endunless %}
-      {% endif %}
-      <a href='mailto:{{contact}}'>{{contact}}</a>
-    {% endfor %}
-  {% else %}
-    to-be-announced
-  {% endif %}
-  for more information.
+  Please email danielle.quinn@mun.ca for more information.
 </p>
 
 <hr/>
