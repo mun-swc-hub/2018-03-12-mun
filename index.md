@@ -44,6 +44,9 @@ eventbrite:
 </iframe>
 {% endif %}
 
+<h4 id="registrationinfo">Registration</h4>
+<p>Registration details will be announced shortly. Typical workshop fees are between $25 and $40 per student.</p>
+
 <h4 id="surveys">Surveys</h4>
 {% if page.carpentry == "swc" %} 
 <p>Upon registering, please be sure to complete the pre-workshop survey.
