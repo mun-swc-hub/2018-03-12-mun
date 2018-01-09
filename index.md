@@ -12,7 +12,7 @@ startdate: 2018-03-12      # machine-readable start date for the workshop in YYY
 enddate: 2018-03-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Danielle Quinn", "TBA"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: [danielle.quinn@mun.ca]    # boxed, comma-separated list of contact email addresses
+email: ["danielle.quinn@mun.ca"]    # boxed, comma-separated list of contact email addresses
 collaborative_notes: https://etherpad.net/p/2018-03-12-mun
 eventbrite:           
 ---
