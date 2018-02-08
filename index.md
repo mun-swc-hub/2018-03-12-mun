@@ -9,7 +9,7 @@ latlng: "47.571693, -52.733248"       # decimal latitude and longitude of worksh
 humandate: "March 12-13, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-03-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-03-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+enddate: 2018-03-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Danielle Quinn", "Oliver Stueker", "Ivo Arrey"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Oihane Cereceda"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["danielle.quinn@mun.ca"]    # boxed, comma-separated list of contact email addresses
