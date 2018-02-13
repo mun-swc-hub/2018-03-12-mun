@@ -14,7 +14,7 @@ instructor: ["Danielle Quinn", "Oliver Stueker", "Ivo Arrey"] # boxed, comma-sep
 helper: ["Oihane Cereceda","Emilie Geissinger"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["danielle.quinn@mun.ca"]    # boxed, comma-separated list of contact email addresses
 collaborative_notes: https://etherpad.net/p/2018-03-12-mun
-eventbrite:           
+eventbrite: 43025801330
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
