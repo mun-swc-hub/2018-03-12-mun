@@ -27,6 +27,9 @@ eventbrite: 43025801330
   And run 'bin/workshop_check.py' *before* committing to make sure that changes are good.
 -->
 
+<h3 id="registrationinfo">Registration</h3>
+<p>Until March 1st, registration is limited to those attending the Science Atlantic Biology and Fisheries & Aquaculture Conference. After March 1st, registration will be open to anyone!</p>
+
 <!--
   EVENTBRITE
   This block includes the Eventbrite registration widget if
@@ -43,9 +46,6 @@ eventbrite: 43025801330
   scrolling="auto">
 </iframe>
 {% endif %}
-
-<h4 id="registrationinfo">Registration</h4>
-<p>Registration details will be announced shortly. Typical workshop fees are between $25 and $40 per student.</p>
 
 <h4 id="surveys">Surveys</h4>
 {% if page.carpentry == "swc" %} 
